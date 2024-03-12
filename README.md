@@ -20,9 +20,9 @@ OBS: **O git tem que esta instalado**
 
 ### <p align="center">Na sua pagina de perfil clique em repositórios </p>
 
-![foto de repositorio](https://i.imgur.com/FUF6mtE.png)
+![foto de repositorio]()
 
 ### <p align="center">Depois em new</p>
 
-![foto de repositorio](https://i.imgur.com/9EqB0lW.png)
+![foto de repositorio]()
 
