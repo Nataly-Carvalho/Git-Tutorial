@@ -34,18 +34,17 @@ OBS: **O git tem que esta instalado**
 
 ![foto de repositorio](https://i.imgur.com/EKbGYer.png)
 
-### <p>5 - Clique em code e logo em seguida vai abrir um pequeno menu</p>
+### <p>5 - Clique em code e logo em seguida vai abrir um pequeno menu copie a URL</p>
 
 ![foto de repositorio](https://i.imgur.com/kGBDmbw.png)
 
-### <p>6 - Va ate o lugar que você quer colocar o repositório e abra o git bash
-(o git bash aparece se você clicar como segundo botão do mouse)
-ou abra o terminal de sua preferencia e digite o seguinte comado:
+### <p> 6 - Va ate o lugar que você quer colocar o repositório e abra o terminal de sua preferencia (CMD / Bash)
+(o git bash e o cmd  aparece se você clicar como segundo botão do mouse dependendo da configuração da maquina)
 
-git clone https://github.com/o-url-que-voce-copiou.git
+### 7 - git clone https://github.com/o-url-que-voce-copiou.git
 ![foto de repositorio](https://i.imgur.com/c5VOaM2.png)
 <br>
-E seu repositório vai está pronto pra ser usado!</p>
+### E seu repositório vai está pronto para ser usado!</p>
 
 # <p align="center"> Como criar um repositório sem precisar clonar</p>
 ### <p> 1 - Crie seu repositório no git hub e vá ate a pasta que você quer transformar em repositório e abra o prompt e digite os seguintes comandos: </p>
