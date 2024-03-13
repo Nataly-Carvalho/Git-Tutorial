@@ -53,19 +53,19 @@ E seu repositório vai está pronto pra ser usado!</p>
 ### 2 - Inicia seu repositório
     git init
 
-### Altera o nome da sua branch principal de master para main
+### 3 - Altera o nome da sua branch principal de master para main
     git branch -M main
 
-### Adiciona seus arquivos
+### 4 - Adiciona seus arquivos
     git add . ou git add seu-arquivo.tipo
 
-### Grava um snapshot permanente do arquivo no histórico da versão.
+### 5 - Grava um snapshot permanente do arquivo no histórico da versão.
     git commit -m "curta descrição do que foi feito"
 
-### Adiciona os arquivos ao repositório
+### 6 - Adiciona os arquivos ao repositório
     git remote add origin https://github.com/seu-repositorio.git
 
-### Envia as modificações para Sua brabch main no repositório do GitHub
+### 7 - Envia as modificações para Sua brabch main no repositório do GitHub
     git push -u origin main
     
 # <p align="center">Criando uma nova branch, selecionando e excluindo  </p>
