@@ -47,11 +47,58 @@ git clone https://github.com/o-url-que-voce-copiou.git
 <br>
 E seu repositório vai está pronto pra ser usado!</p>
 
-### <p>7 - Na sua pagina de perfil clique em repositórios </p>
+# <p align="center"> Como criar um repositório sem precisar clonar</p>
 
-![foto de repositorio]()
+<p>
+### 1 - git init
+</p>
+<p>
+  <br>
+    Inicia seu repositório 
+  <br>
+</p>
+<p>
+### 2 - git branch -M main
+</p>
+<p>
+  <br>
+       Altera o nome da sua branch principal de master para main
+       <br>
+</p>
+<p>
+### 3 - git add . ou git add seu-arquivo.tipo
+</p>
+<p>
+  <br>
+       Adiciona seus arquivos
+  <br>
+</p>
+<p>
+### 4 - git commit -m "curta descrição do que foi feito"
+</p>
+<p>
+  <br>
+        Grava um snapshot permanente do arquivo no histórico da versão.
+  <br>
+</p>
+<p>
+### 5 - git remote add origin https://github.com/seu-repositorio.git
+</p>
+<p>
+  <br>
+         Adiciona os arquivos ao repositorio
+  <br>
+</p>
+<p>
+### 6 - git push -u origin main
+</p>
+<p>
+  <br>
+   Envia as modificações para seu repositório no GitHub
+  <br>
+</p>
 
-### <p>8 - Depois em new</p>
+
 
 ![foto de repositorio]()
 ### <p>3 - Na sua pagina de perfil clique em repositórios </p>
