@@ -6,9 +6,9 @@ Para usar o git pela primeira vez precisa configurar sua maquina ("Só é necess
 
 Use os seguintes comandos:
 
-git config --global user.name "Seu-Nome"
+    git config --global user.name "Seu-Nome"
 
-git config --global user. email "seu-email-cadastrado-no-git-hub"
+    git config --global user. email "seu-email-cadastrado-no-git-hub"
 
 **Se fizer com outro e-mail não vai funcionar**
 <br>
@@ -48,64 +48,73 @@ git clone https://github.com/o-url-que-voce-copiou.git
 E seu repositório vai está pronto pra ser usado!</p>
 
 # <p align="center"> Como criar um repositório sem precisar clonar</p>
+### <p> 1 - Crie seu repositório no git hub e vá ate a pasta que você quer transformar em repositório e abra o prompt e digite os seguintes comandos: </p>
 
-<p>
-### 1 - git init
-</p>
-<p>
-  <br>
-    Inicia seu repositório 
-  <br>
-</p>
-<p>
-### 2 - git branch -M main
-</p>
-<p>
-  <br>
-       Altera o nome da sua branch principal de master para main
-       <br>
-</p>
-<p>
-### 3 - git add . ou git add seu-arquivo.tipo
-</p>
-<p>
-  <br>
-       Adiciona seus arquivos
-  <br>
-</p>
-<p>
-### 4 - git commit -m "curta descrição do que foi feito"
-</p>
-<p>
-  <br>
-        Grava um snapshot permanente do arquivo no histórico da versão.
-  <br>
-</p>
-<p>
-### 5 - git remote add origin https://github.com/seu-repositorio.git
-</p>
-<p>
-  <br>
-         Adiciona os arquivos ao repositorio
-  <br>
-</p>
-<p>
-### 6 - git push -u origin main
-</p>
-<p>
-  <br>
-   Envia as modificações para seu repositório no GitHub
-  <br>
-</p>
+### 2 - Inicia seu repositório
+    git init
+
+### Altera o nome da sua branch principal de master para main
+    git branch -M main
+
+### Adiciona seus arquivos
+    git add . ou git add seu-arquivo.tipo
+
+### Grava um snapshot permanente do arquivo no histórico da versão.
+    git commit -m "curta descrição do que foi feito"
+
+### Adiciona os arquivos ao repositório
+    git remote add origin https://github.com/seu-repositorio.git
+
+### Envia as modificações para Sua brabch main no repositório do GitHub
+    git push -u origin main
+    
+# <p align="center">Criando uma nova branch, selecionando e excluindo  </p>
+### <p>O que é uma branch?</p>
+<p>Branch, ou ramo em português, é uma cópia das linhas de código de um software gerenciada por um sistema de controle de versão (VSC).<br>
+A ramificação serve para ajudar as equipes de desenvolvimento a consertar bugs e inserir funções, separando o trabalho em andamento a <br>
+consertar bugs e inserir funções, separando o trabalho em andamento do código testado e estável.</p>
+
+### <p>1 - Va ate o git bash ou terminal de sua preferencia e digite os seguintes comandos 
+### 2 -  Cria um novo branch
+    git branch nome-da-branch
+
+### 3 - Muda para a branch especificada e atualiza o diretório de trabalho
+    git checkout nome-da-branch
+
+### 4 - Lista todas as branches locais no repositório atual
+    git branch
+
+### 5 - Exclui o branch especificado
+    git branch -d nome-da-branch
+
+# <p>Subindo modificações para o git hub e atualizando seu repositorio<p>
+### 1 - Abra o git bash ou qualquer terminal da sua preferencia e digite os seguintes comandos
+
+### 2 - Adiciona todas as modificações adicionadas/modificadas
+    git add .
+
+### 3 - Lista os arquivos novos ou modificados para serem comitados
+    git status
+
+### 4 - Grava um snapshot permanente do arquivo no histórico da versão
+    git commit -m "curta descrição do que foi feito"
+
+### 5 - Envia as modificações para seu repositório no GitHub
+    git push origin nome-da-branch
+    
+# <p align="center">Trabalhando em equipe</p> 
+### 1 - Vá ate Repositório que você deseja colocar colaboradores clique em settings
+![foto de repositorio](https://i.imgur.com/1W6FV3Y.png)
+
+### 2 - No menu lateral vai aparecer a opção collaborators clique nela e vai pedir para você adicionar sua senha
+![foto de repositorio](https://i.imgur.com/TzS0mMO.png)
+
+### 3 - Clique em add people
+![foto de repositorio](https://i.imgur.com/12gtgyl.png)
+### 4 - Digite o nome de usuário ou email do colaborador 
+![foto de repositorio](https://i.imgur.com/iznSodJ.png)
+### 5 - Clique em add (Fulano) to this repository
+![foto de repositorio](https://i.imgur.com/QeUugQk.png)
 
 
-
-![foto de repositorio]()
-### <p>3 - Na sua pagina de perfil clique em repositórios </p>
-
-![foto de repositorio]()
-
-### <p>4 - Depois em new</p>
-
-![foto de repositorio]()
 
