@@ -69,9 +69,7 @@ OBS: **O git tem que esta instalado**
     
 # <p align="center">Criando uma nova branch, selecionando e excluindo  </p>
 ### <p>O que é uma branch?</p>
-<p>Branch, ou ramo em português, é uma cópia das linhas de código de um software gerenciada por um sistema de controle de versão (VSC).<br>
-A ramificação serve para ajudar as equipes de desenvolvimento a consertar bugs e inserir funções, separando o trabalho em andamento a <br>
-consertar bugs e inserir funções, separando o trabalho em andamento do código testado e estável.</p>
+<p>Branch, ou ramo em português, é uma cópia das linhas de código de um software gerenciada por um sistema de controle de versão (VSC). A ramificação serve para ajudar as equipes de desenvolvimento a consertar bugs e inserir funções, separando o trabalho em andamento a consertar bugs e inserir funções, separando o trabalho em andamento do código testado e estável.</p>
 
 ### <p>1 - Va ate o git bash ou terminal de sua preferencia e digite os seguintes comandos 
 ### 2 -  Cria um novo branch
