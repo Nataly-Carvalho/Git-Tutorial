@@ -8,7 +8,7 @@ Use os seguintes comandos:
 
     git config --global user.name "Seu-Nome"
 
-    git config --global user. email "seu-email-cadastrado-no-git-hub"
+    git config --global user.email "seu-email-cadastrado-no-git-hub"
 
 **Se fizer com outro e-mail não vai funcionar**
 <br>
