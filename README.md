@@ -83,6 +83,9 @@ OBS: **O git tem que esta instalado**
 
 ### 5 - Exclui o branch especificado
     git branch -d nome-da-branch
+    
+### Forma alternativa - Cria um novo branch e muda para ela
+    git checkout -b nome-da-branch
 
 # <p>Subindo modificações para o git hub e atualizando seu repositorio<p>
 ### 1 - Abra o git bash ou qualquer terminal da sua preferencia e digite os seguintes comandos
