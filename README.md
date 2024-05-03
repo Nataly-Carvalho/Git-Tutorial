@@ -84,7 +84,7 @@ OBS: **O git tem que esta instalado**
 ### 5 - Exclui o branch especificado
     git branch -d nome-da-branch
     
-### Forma alternativa - Cria um novo branch e muda para ela
+### Forma alternativa - Cria um novo branch e muda para ele
     git checkout -b nome-da-branch
 
 # <p>Subindo modificações para o git hub e atualizando seu repositorio<p>
