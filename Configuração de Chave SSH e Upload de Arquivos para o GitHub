@@ -56,11 +56,6 @@ git clone git@github.com:exemplo/Softex-Ruby.git
 Este comando clona o repositório especificado para o seu computador local.
 
 ### Passo 3: Navegar para o diretório do projeto
-```bash
-cd Softex-Ruby/
-cd Calculadora-Ruby/
-```
-Esses comandos navegam para o diretório do projeto clonado.
 
 ### Passo 4: Inicializar o repositório Git
 ```bash
@@ -76,7 +71,7 @@ Este comando lista os repositórios remotos associados ao projeto.
 
 ### Passo 6: Adicionar o repositório remoto de origem
 ```bash
-git remote add origin git@github.com:exemplo/LP-Calculadora.git
+git remote add origin git@github.com:exemplo/exemplo.git
 ```
 Este comando adiciona um repositório remoto chamado `origin` ao projeto local, apontando para o repositório especificado.
 
@@ -100,7 +95,7 @@ Este comando adiciona todos os arquivos modificados no diretório atual ao próx
 
 ### Passo 10: Fazer o commit das alterações
 ```bash
-git commit -m "Adicionando a calculadora"
+git commit -m "curto comentario do que foi feito"
 ```
 Este comando cria um commit com a mensagem "Adicionando a calculadora", que descreve as alterações feitas.
 
