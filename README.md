@@ -21,4 +21,4 @@ Para utilizar este material:
 
 ## 📄 Liceça
 
-Este projeto está licenciado sob a [MIT License](LICENSE), permitindo uso, cópia, modificação e distribuição livre, desde que a atribuição adequada seja forneida. 
+Este projeto está licenciado sob a [MIT License](LICENSE), permitindo uso, cópia, modificação e distribuição livre, desde que a atribuição adequada seja forneida.
