@@ -1,14 +1,24 @@
+# 📌 Git Tutorial
+
 ## 📖 Sobre
-Este repositório contém um conjunto de arquivos com comandos Git essenciais para situações de emergência. Cada arquivo cobre um aspecto específico do uso do Git, desde configurações iniciais até recuperação de commits e resolução de conflitos.
+
+Este repositório oferece tutoriais detalhados sobre o uso do Git e do GitHub, desde configurações iniciais até operações mais avançadas. Cada arquivo aborda um tópico específico, auxiliando tanto iniciantes quanto usuários mais experientes.
 
 ## 📂 Conteúdo dos Arquivos
 
-- **configuracao_ssh.md**: Explica como configurar uma chave SSH para autenticação com o GitHub.
-- **primeiros_passos.md**: Contém instruções básicas para configurar o Git pela primeira vez.
-- **repositorio.md**: Guia passo a passo sobre como criar e gerenciar repositórios no GitHub.
-- **branching.md**: Explica como criar, alternar e excluir branches no Git.
-- **comandos_emergencia.md**: Lista comandos úteis para restaurar commits, resolver conflitos e recuperar histórico perdido.
-- **colaboracao.md**: Guia sobre como adicionar colaboradores e trabalhar em equipe em um repositório Git.
+- **Configuração de Chave SSH e Upload de Arquivos para o GitHub.md*: Este arquivo fornece um tutorial passo a passo sobre como configurar uma chave SSH no seu computador e utilizá-la para fazer upload de arquivos para o GitHb.
+
+- **GITCHEAT-EMERGENCY.md*: Este documento serve como um guia rápido de comandos Git essenciais para situações de emergência, ajudando a resolver problemas comuns que podem surgir durante o uso do Gt.
+
+- **Usando o Git pela Primeira Vez.md*: Este tutorial é destinado a iniciantes e cobre os primeiros passos no uso do Git, incluindo configurações iniciais e comandos básics.
 
 ## 🚀 Como Usar
-Basta acessar o arquivo correspondente à sua necessidade para encontrar instruções detalhadas. Caso tenha alguma sugestão ou queira contribuir, fique à vontade para abrir um pull request.
+
+Para utilizar este material:
+1. Navegue até o arquivo que aborda o tópico de seu interese.
+2. Siga as instruções fornecidas no tutorial para aplicar os conceitos ou comandos no seu ambiente de desenvolvimeto.
+3. Caso tenha dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou enviar um pull requst.
+
+## 📄 Liceça
+
+Este projeto está licenciado sob a [MIT License](LICENSE), permitindo uso, cópia, modificação e distribuição livre, desde que a atribuição adequada seja forneida. 
